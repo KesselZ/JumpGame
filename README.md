@@ -1,6 +1,6 @@
 # JumpGame
-This game is a simple jump game I wrote in 2019.   
-You need to avoid all comming obstacles to gain higher score. In this game, the scene will randomly changes with the increase in sccore. 
+This game is a simple jump game I wrote in 2019.  
+You need to avoid all incoming obstacles to gain a higher score. In this game, the scene will randomly change with the increase in score.
 
 
 Press SPACE to jump  

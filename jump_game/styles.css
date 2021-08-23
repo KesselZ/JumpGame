@@ -1,0 +1,152 @@
+.html{
+
+          position:fixed;
+
+            height:100%;
+
+            width:100%;
+
+    }
+
+    .html{
+      opacity:0;
+    }
+
+#score {
+    font-size: 250%;
+    position: absolute;
+    left:200px;
+}
+
+#score1 {
+    font-size: 250%;
+    font-weight: bold;
+    position: absolute;
+    left:50px;
+}
+
+
+
+
+
+
+.button {        /* made by kessel 按钮样式*/
+  display: inline-block;
+  border-radius: 4px;
+  background-color: white;
+  border: none;
+  color: gray;
+  text-align: right;
+  font-size: 110%;
+  font-weight: bold;
+  padding: 20px;
+  width: 220px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+
+}
+
+.button span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.bw_button{              /* 黑白 按钮样式*/
+   color: black;
+   background-color: white; 
+    border: 1px solid black;
+    border-radius:5px;
+    padding: 8px 170px;
+    text-align: center;
+    display: inline-block;
+    font-size: 200%;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.bw_button:hover{
+  background-color: black; 
+  color:white;
+
+}
+
+#game_menu{
+  position: absolute; 
+  top:20px;
+  right:10px;
+  font-size: 50%;
+
+}
+
+#goback{
+    padding:10px 19px;
+    margin:10px 10px;
+
+}
+
+#pause{
+  cursor: pointer;
+  padding:10px 10px 10px 15px;
+  margin:10px 10px;
+}
+
+#map_name{
+  color:black;
+  font-size: 350%;
+  font-weight: bold;
+  transition: all 1s;
+  opacity: 0;
+
+
+}
+
+.word{
+  letter-spacing: 1px;
+  line-height: 25px;
+  word-break: keep-all;
+  margin-top:5px;
+}
+
+#scroll{
+  overflow: scroll;
+}
+
+/*对于手机的设置*/
+@media all and (orientation: portrait) {
+
+    #score {
+        font-size: 150%;
+        position: absolute;
+        left:125px;
+        top:12px;
+    }
+
+    #score1 {
+        font-size: 150%;
+        left:35px;
+        top:12px;
+    }
+
+}

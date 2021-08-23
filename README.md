@@ -4,7 +4,9 @@ You need to avoid all comming obstacles to gain higher score. In this game, the 
 
 
 Press SPACE to jump
+
 Click screen to jump(on PC)
+
 Touch screen to jump(on mobile)
 
 Have fun.

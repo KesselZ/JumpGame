@@ -7,6 +7,6 @@ Press SPACE to jump
 Click screen to jump(on PC)  
 Touch screen to jump(on mobile)   
 
-Game link: https://www.kesselzhang.top/menu.html
+Game link: https://www.kesselzhang.top/sub_web/jump_game/menu.html
 
 Have fun.

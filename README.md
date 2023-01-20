@@ -10,3 +10,5 @@ Touch screen to jump(on mobile)
 Game link: https://www.kesselzhang.top/sub_web/jump_game/menu.html
 
 Have fun.
+
+![image](https://user-images.githubusercontent.com/38292651/213801201-d6875ce1-4ce8-4691-a051-e2b4d2085154.png)
